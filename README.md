@@ -1,5 +1,5 @@
-## ***~~hola locura 👋~~*** 
-The background color is `#2CF9BB` for light mode and `#000000` for dark mode.
+## ~~hola locura 👋~~
+
 
 
 <!--
