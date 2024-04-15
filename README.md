@@ -1,4 +1,4 @@
-## ~~hola locura 👋~~
+## hola gente 👋
 
 
 
