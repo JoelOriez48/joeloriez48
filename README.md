@@ -1,6 +1,8 @@
   ## hola gente 👋 
   
-  mi nombre es Joel Oriez y estoy cursando la carrera __Tecnico Superior en Analisis Funcional de Sistemas Informaticos__ 
+  Mi nombre es Joel Oriez, estoy cursando la carrera __Tecnico Superior en Analisis Funcional de Sistemas Informaticos__ es el tercer año y ultimo de la misma.
+### Mi especialidad 
+
 
 
 
