@@ -1,4 +1,4 @@
-## hola gente 👋
+  ## hola gente 👋 mi nombre es Joel Oriez y estoy cursando la carrera __Tecnico Superior en Analisis Funcional de Sistemas Informaticos__ 
 
 
 
