@@ -1,6 +1,7 @@
-  ## hola gente 👋 
+  ## HOLA GENTE LINDA 👋 
   
   Mi nombre es Joel Oriez, estoy cursando la carrera __Tecnico Superior en Analisis Funcional de Sistemas Informaticos__ es el tercer año y ultimo de la misma.
+  La pagina de la escuela para saber mas informacion sobre la carrera o sobre la escuela en si la pueden encontrar apretando este [link](https://ens46-sfe.infd.edu.ar/sitio/)
 ### Mi especialidad 
 
 
